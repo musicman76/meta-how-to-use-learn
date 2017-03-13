@@ -16,7 +16,7 @@ Units allow us to separate our course in big "chunks" of information. It's a way
 
 For example, this course has just 1 unit "Introduction" as we didn't consider it necessary to break it down into more units. But our [Flask Tutorial](http://learn.rmotr.com/python/flask-tutorial-step-by-step/first-steps/course-introduction) has 5 units to structure the content in a proper way:
 
-![how learn.rmotr.com units are structured](https://cloud.githubusercontent.com/assets/872296/23872082/adb3b7a4-080b-11e7-8e80-39483b35a8d2.png)
+![how learn.rmotr.com units are structured](https://cloud.githubusercontent.com/assets/872296/23876713/840e5f50-081d-11e7-8ce3-86dea4f09ed4.png)
 
 Finally, we say that a Unit is just a group of many **lessons**:
 
@@ -43,12 +43,16 @@ This is the icon of a reading lesson:
 
 A coding exercise to submit through learn. Learn more in the following section.
 
+![image](https://cloud.githubusercontent.com/assets/872296/23876464/65e3b878-081c-11e7-9092-9ade5ae368eb.png)
+
+
 #### External Assignment Lesson
 
 A coding exercise that must be sent through Github. More on it later
 
+![image](https://cloud.githubusercontent.com/assets/872296/23876481/78307dd6-081c-11e7-858f-7f394049fdcd.png)
+
+
 ## Your next step
 
-Now that you've reached the end of this lesson, hit the "Next Lesson" button on your right to learn how to submit your first "Assignment Lesson" (a.k.a. Coding Challenge).
-
-![image](https://cloud.githubusercontent.com/assets/872296/23874721/6a51cd3e-0815-11e7-9135-09452e12c61a.png)
+Now that you've reached the end of this lesson, hit the "Finish Lesson" button **on your right** to learn how to submit your first "Assignment Lesson" (a.k.a. Coding Challenge).
